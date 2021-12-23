@@ -1,0 +1,36 @@
+
+        
+        /* Start Upper Bar */
+        
+        .upper-bar {
+          background-color: #08526d;
+          color: #FFF;
+        }
+        
+        .upper-bar .info {
+          margin: 15px 0;
+          display: flex;
+          align-items: center;
+          justify-content: space-evenly;
+        }
+        
+        @media (max-width: 576px) {
+          .upper-bar .info:first-child {
+            margin-bottom: 0;
+          }
+        }
+        
+        .upper-bar span {
+          color: #bfc6c9;
+        }
+        .upper-bar img {
+          height:50px;
+          width:50px;
+        }
+        
+        .upper-bar .get-quote {
+          display: inline-block;
+          border: 1px solid #ec1c23;
+          padding: 2px 10px;
+           margin-right: 20px; 
+        }
