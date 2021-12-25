@@ -1,0 +1,30 @@
+
+/* Start Footer */
+
+.footer {
+          padding: 0;
+          background-color: #f0f5f7;
+          margin-top: 100px;
+        }
+       
+       
+        
+        
+        .footer .contact ul li {
+          margin-bottom: 24px;
+        }
+        
+        @media (max-width: 992px) {
+          .footer .contact h2 {
+            margin-bottom: 20px;
+            margin-top: 5px;
+          }
+          .footer .contact ul li {
+            margin-bottom: 5px;
+          }
+        }
+
+
+
+        
+        /* End Footer */

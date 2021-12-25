@@ -1,0 +1,33 @@
+
+/* Start Navbar */
+
+
+
+.navbar-brand > img {
+  height:75px;
+  width:250px;
+}
+.navbar-brand span:first-child {
+  color: #08526d;
+  font-weight: bold;
+}
+
+
+
+.navbar-nav .nav-link {
+  font-size: 16px;
+  text-transform: uppercase;
+  margin-right: 30px;
+  color: #08526d;
+  font-weight: bold;
+}
+
+.navbar-nav .active > .nav-link {
+  color: #ec1c23 !important;
+}
+
+.navbar-toggler {
+  margin-right: 30px;
+}
+
+/* End Navbar */
