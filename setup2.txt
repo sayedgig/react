@@ -1,2 +1,3 @@
-https://julietterocco.com/personal_website/static/js/main.3edbf089.chunk.js 
-https://julietterocco.com/static/js/main.3edbf089.chunk.js.
+https://sayedgig.github.io/github.io/react/static/css/main.6dafe28e.chunk.css
+
+https://sayedgig.github.io/react/static/css/main.6dafe28e.chunk.css
